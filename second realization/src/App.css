@@ -1,0 +1,8 @@
+body {
+  padding: 20px;
+  background-color: #52ae8b;
+}
+
+p, span, h5, h6 {
+  color: white;
+}
